@@ -3,7 +3,7 @@
 using namespace std;
 
 const long int mxN = 1e5;
-long int a[mxN], sum, cnt, ans;
+long int a[mxN], cnt, ans;
 
 void solve(){
 	int n;
